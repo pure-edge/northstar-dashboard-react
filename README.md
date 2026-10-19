@@ -2,6 +2,8 @@
 
 A responsive inventory operations dashboard built as a React and TypeScript frontend prototype. It uses sample product and order data and stores inventory changes in the current browser; it does not connect to a backend.
 
+[Read the technical case study](CASE-STUDY.md)
+
 ## Features
 
 - Dashboard summary metrics for total products, pending orders, low-stock items, and inventory retail value.
